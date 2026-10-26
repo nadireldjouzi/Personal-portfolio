@@ -1,0 +1,62 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 2079 >>
+stream
+q
+1 0 0 1 0 0 cm
+0.90 0.95 1.00 rg 0 0 612 792 re f
+0 0 0 rg 0.5 w
+BT /F2 26 Tf 72 720 Td (Nadir Eldjouzi) Tj ET
+BT /F1 12 Tf 72 696 Td (Ingénieur Systèmes Informatiques  Développeur Full-Stack & Systèmes) Tj ET
+BT /F1 10 Tf 72 680 Td (Email : nadironadiro44@gmail.com   |   GitHub : github.com/nadir-eldjouzi) Tj ET
+BT /F1 10 Tf 72 666 Td (LinkedIn : linkedin.com/in/nadir-eldjouzi   |   Tizi-Ouzou, Algérie) Tj ET
+656 m 540 656 l S
+BT /F2 13 Tf 72 630 Td (FORMATION) Tj ET
+BT /F1 10 Tf 72 612 Td (- Master Systèmes Informatiques  UMMTO \(2023-2025\) : réseaux & NTIC, systèmes répartis, big data, IA) Tj ET
+BT /F1 10 Tf 72 598 Td (- Licence en Informatique  UMMTO \(2020-2023\) : algorithmique, programmation, systèmes, réseaux) Tj ET
+BT /F1 10 Tf 72 584 Td (- Formations complémentaires : Cisco CCNA, développement full-stack, UI/UX) Tj ET
+BT /F2 13 Tf 72 562 Td (COMPÉTENCES) Tj ET
+BT /F1 10 Tf 72 544 Td (- Réseaux & Sécurité : routage, DHCP, DNS \(BIND9\), pare-feux, VPN, détection dintrusion) Tj ET
+BT /F1 10 Tf 72 530 Td (- Systèmes & Architecture : Linux/Windows, temps réel, CORBA, Web Services, J2EE, P2P, ARM/FPGA) Tj ET
+BT /F1 10 Tf 72 516 Td (- Données & IA : BD avancées \(objet, spatiales, XML\), Big Data, NoSQL, cloud, systèmes experts) Tj ET
+BT /F1 10 Tf 72 502 Td (- Développement & Web : Java, C/C++, C#, PHP, Python, SQL, programmation web, génie logiciel) Tj ET
+BT /F1 10 Tf 72 488 Td (- Gestion de projet : méthodes de développement, rédaction scientifique, anglais professionnel) Tj ET
+BT /F2 13 Tf 72 466 Td (PROJETS) Tj ET
+BT /F1 10 Tf 72 448 Td (- Plateforme e-commerce : React, Node.js, PostgreSQL, Stripe) Tj ET
+BT /F1 10 Tf 72 434 Td (- Système de gestion scolaire : Next.js, TypeScript, MongoDB, Socket.io) Tj ET
+BT /F1 10 Tf 72 420 Td (- Infrastructure réseau dentreprise : VLAN, pare-feu, VPN, supervision) Tj ET
+BT /F1 10 Tf 72 406 Td (- Services web répartis : Go, Docker, Redis, microservices, CI/CD) Tj ET
+BT /F2 13 Tf 72 384 Td (CONTACT) Tj ET
+BT /F1 10 Tf 72 366 Td (- Disponible pour stage PFE, alternance et premier emploi) Tj ET
+Q
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000002382 00000 n 
+0000002479 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2581
+%%EOF
